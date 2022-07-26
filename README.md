@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoshuaHavilandCurtis a hard-working, punctual and motivated individual who can work in a busy environment and produce high standards of work. 
 - 👀 I’m interested in Web Development & Technology. In my leisure time I enjoy working out in the gym, cycling and socialising with friends and family.
 - 🌍 I'm in the South Coast, Sunny Bournemouth near the beaches.
-- 🌱 I’m currently learning Vanilla JavaScript & Node.js
+- 🌱 I’m currently learning Vanilla JavaScript, TypeScript & Node.js
 - 💞️ I’m looking to collaborate
 - 📫 Best way to reach me is my portfolio website: https://joshuacurtis.dev/
 
