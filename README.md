@@ -3,7 +3,6 @@
 - 🌍 I'm in the South Coast, Sunny Bournemouth near the beaches.
 - 🌱 I’m currently learning Vanilla JavaScript, TypeScript & VueJS
 - 💞️ I’m looking to collaborate
-- 📫 Best way to reach me is my portfolio website: https://joshuacurtis.dev/
 
 
 <img width="1636" alt="Screenshot 2021-08-22 at 13 49 52" src="https://user-images.githubusercontent.com/73693469/130355862-3973813c-2a89-4c49-9ff8-71e5a688d08b.png">
